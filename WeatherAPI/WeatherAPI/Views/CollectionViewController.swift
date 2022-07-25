@@ -11,6 +11,7 @@ import Alamofire
 // MARK: - CollectionViewProtocol
 protocol CollectionViewProtocol: AnyObject {
     func reloadData()
+    
 }
 
 // MARK: - CollectionViewController
